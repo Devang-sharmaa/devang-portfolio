@@ -13,13 +13,13 @@ const About = () => {
         Hello, I'm{" "}
         <span className="blue-gradient_text font-semibold drop-shadow">
           {" "}
-          Mansi
+          Devang
         </span>{" "}
         👋
       </h1>
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          Student at JSS Academy Of Technical Education Noida pursuing Btech in
+          Student at University of Engineering and Managment Jaipur pursuing Btech in
           computer Science Engineering , specializing in Web Development through
           hands-on learning and building website projects.I'm a passionate MERN stack web developer fueled by curiosity
           and creativity. With expertise in MongoDB, Express.js, React.js, and
